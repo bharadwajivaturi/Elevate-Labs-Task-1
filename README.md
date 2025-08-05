@@ -14,4 +14,4 @@ This is a calculator program written in Python. It allows users to perform basic
 
 ## Code
 
-The code is provided in the task_1.py file. It defines functions for each arithmetic operation and a `calculator()` function to handle user interaction and operation selection.
+The code is provided in the calculator.py file. It defines functions for each arithmetic operation and a `calculator()` function to handle user interaction and operation selection.
